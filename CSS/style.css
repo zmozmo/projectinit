@@ -1,0 +1,16 @@
+
+
+git init 
+git status 
+git add --a 
+git commit -m "Project Init"
+git config --global user.email "zmozmo@gmail.com"
+git config --glbal user.name "zmozmo"
+git config user.email
+git config user.name
+git remote add origin https://github.com/zmozmo/helloworld.git
+git add --a 
+git push origin master 
+git remote add origin https://github.com/zmozmo/helloworld.git
+
+http://rogerdudler.github.io/git-guide/index.my.html
